@@ -1,7 +1,7 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://aparksa.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1DcJWEp4lTqU6h75PljqMyqnoWIxlm498yNXt-fq9OoY/edit#gid=0
 
